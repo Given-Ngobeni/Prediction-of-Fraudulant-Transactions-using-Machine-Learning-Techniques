@@ -1,0 +1,2 @@
+# Prediction-of-Fraudulant-Transactions-using-Machine-Learning-Techniques
+Fraud detection using machine learning to classify financial transactions. Models tested include Random Forest, SVM, KNN, Logistic Regression, Decision Tree, ANN, and Naïve Bayes. Random Forest, SVM, and KNN achieved 99.88% accuracy. The study highlights model selection, feature importance, and evaluation metrics for fraud classification.
