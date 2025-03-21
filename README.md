@@ -1,4 +1,4 @@
-# Prediction of Fraudulent Transactions using Machine Learning Techniques
+# Prediction of Fraudulent Transactions using Machine Learning Techniques (Honours Project)
 
 ## Overview
 This research project explores the use of machine learning techniques to detect fraudulent financial transactions. The study evaluates multiple classification models, including Random Forest, Logistic Regression, Decision Tree, Support Vector Machines (SVM), K-Nearest Neighbors (KNN), Artificial Neural Networks (ANN), and Naïve Bayes, to determine the most effective approach for fraud detection.
