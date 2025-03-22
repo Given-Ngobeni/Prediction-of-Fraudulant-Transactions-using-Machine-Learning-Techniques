@@ -23,7 +23,7 @@ This research project explores the use of machine learning techniques to detect 
 ## Findings
 - Random Forest, SVM, and KNN achieved the highest accuracy (99.88%) in fraud detection.
 - ANN performed poorly, with an accuracy of only 0.36%.
-- Logistic Regression and Decision Trees provided moderate accuracy but were outperformed by ensemble methods.
+- Logistic Regression and Decision Trees provided accuracy of 98.32% and 98.76% respectively.
 - Feature importance analysis highlighted transaction amount, time, and user details as critical fraud indicators.
 
 ## Implementation
