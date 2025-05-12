@@ -36,12 +36,12 @@ decision_tree_model <- rpart(is_fraud ~ ., data = trainData, method = "class")
 rpart.plot(
   decision_tree_model, 
   main = "Decision Tree", 
-  cex = 0.6,           # Increase text size
-  extra = 104,         # Display class probabilities and percentages
-  fallen.leaves = TRUE, # Position leaves at the bottom
-  box.palette = "GnBu", # Add color to the boxes
-  shadow.col = "gray",  # Add shadow for better visibility
-  nn = TRUE            # Display node numbers
+  cex = 0.6,           
+  extra = 104,      
+  fallen.leaves = TRUE,
+  box.palette = "GnBu", 
+  shadow.col = "gray", 
+  nn = TRUE 
 )
 
 # Make predictions on the test set
